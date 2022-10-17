@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/arjunkarthik123.github.io/static/css/main.aea29423.css",
-    "main.js": "/arjunkarthik123.github.io/static/js/main.a3d46038.js",
-    "static/media/headshot arjun_prev_ui.png": "/arjunkarthik123.github.io/static/media/headshot arjun_prev_ui.242a8351f936b3f74c0b.png",
-    "static/media/webdev.png": "/arjunkarthik123.github.io/static/media/webdev.67f98a2992f047549b82.png",
-    "static/media/Resume Arjun Karthik - 2022 (3).pdf": "/arjunkarthik123.github.io/static/media/Resume Arjun Karthik - 2022 (3).78ffd7b2a18ba231d986.pdf",
-    "static/media/mcm-eng-mgmt_left-col_jpg.jpg": "/arjunkarthik123.github.io/static/media/mcm-eng-mgmt_left-col_jpg.51b72ae5d447a63f6573.jpg",
-    "static/media/gpa demo.png": "/arjunkarthik123.github.io/static/media/gpa demo.d607bacea6afca24b4d6.png",
-    "static/media/pong demo.png": "/arjunkarthik123.github.io/static/media/pong demo.1ed9541135d53edc3de7.png",
-    "index.html": "/arjunkarthik123.github.io/index.html",
-    "main.aea29423.css.map": "/arjunkarthik123.github.io/static/css/main.aea29423.css.map",
-    "main.a3d46038.js.map": "/arjunkarthik123.github.io/static/js/main.a3d46038.js.map"
+    "main.css": "/Personal-Portfolio/static/css/main.aea29423.css",
+    "main.js": "/Personal-Portfolio/static/js/main.a1f7bc6d.js",
+    "static/media/headshot arjun_prev_ui.png": "/Personal-Portfolio/static/media/headshot arjun_prev_ui.242a8351f936b3f74c0b.png",
+    "static/media/webdev.png": "/Personal-Portfolio/static/media/webdev.67f98a2992f047549b82.png",
+    "static/media/Resume Arjun Karthik - 2022 (3).pdf": "/Personal-Portfolio/static/media/Resume Arjun Karthik - 2022 (3).78ffd7b2a18ba231d986.pdf",
+    "static/media/mcm-eng-mgmt_left-col_jpg.jpg": "/Personal-Portfolio/static/media/mcm-eng-mgmt_left-col_jpg.51b72ae5d447a63f6573.jpg",
+    "static/media/gpa demo.png": "/Personal-Portfolio/static/media/gpa demo.d607bacea6afca24b4d6.png",
+    "static/media/pong demo.png": "/Personal-Portfolio/static/media/pong demo.1ed9541135d53edc3de7.png",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.aea29423.css.map": "/Personal-Portfolio/static/css/main.aea29423.css.map",
+    "main.a1f7bc6d.js.map": "/Personal-Portfolio/static/js/main.a1f7bc6d.js.map"
   },
   "entrypoints": [
     "static/css/main.aea29423.css",
-    "static/js/main.a3d46038.js"
+    "static/js/main.a1f7bc6d.js"
   ]
 }
