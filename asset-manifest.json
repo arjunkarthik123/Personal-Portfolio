@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/Personal-Portfolio/static/css/main.aea29423.css",
-    "main.js": "/Personal-Portfolio/static/js/main.a1f7bc6d.js",
-    "static/media/headshot arjun_prev_ui.png": "/Personal-Portfolio/static/media/headshot arjun_prev_ui.242a8351f936b3f74c0b.png",
+    "main.js": "/Personal-Portfolio/static/js/main.c54d11f4.js",
+    "static/media/Screenshot 2023-03-29 014217.png": "/Personal-Portfolio/static/media/Screenshot 2023-03-29 014217.6b06fe2b3cedb99e5ce6.png",
+    "static/media/headshot arjun new.png": "/Personal-Portfolio/static/media/headshot arjun new.2712e0f6c95ae9c86d0f.png",
     "static/media/webdev.png": "/Personal-Portfolio/static/media/webdev.67f98a2992f047549b82.png",
-    "static/media/Resume Arjun Karthik - 2022 (3).pdf": "/Personal-Portfolio/static/media/Resume Arjun Karthik - 2022 (3).78ffd7b2a18ba231d986.pdf",
+    "static/media/Arjun_Karthik_Resume_June_2023.pdf": "/Personal-Portfolio/static/media/Arjun_Karthik_Resume_June_2023.6899145ad42eeb602ed9.pdf",
     "static/media/mcm-eng-mgmt_left-col_jpg.jpg": "/Personal-Portfolio/static/media/mcm-eng-mgmt_left-col_jpg.51b72ae5d447a63f6573.jpg",
     "static/media/gpa demo.png": "/Personal-Portfolio/static/media/gpa demo.d607bacea6afca24b4d6.png",
     "static/media/pong demo.png": "/Personal-Portfolio/static/media/pong demo.1ed9541135d53edc3de7.png",
     "index.html": "/Personal-Portfolio/index.html",
     "main.aea29423.css.map": "/Personal-Portfolio/static/css/main.aea29423.css.map",
-    "main.a1f7bc6d.js.map": "/Personal-Portfolio/static/js/main.a1f7bc6d.js.map"
+    "main.c54d11f4.js.map": "/Personal-Portfolio/static/js/main.c54d11f4.js.map"
   },
   "entrypoints": [
     "static/css/main.aea29423.css",
-    "static/js/main.a1f7bc6d.js"
+    "static/js/main.c54d11f4.js"
   ]
 }
