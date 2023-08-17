@@ -34,8 +34,7 @@ const about = () => {
             at McMaster University, and thank you for taking the time to
             read over my portfolio! I am skilled in python, java, html, css, and 
             javascript as showcased in my work and I also carry vast leadership
-            experience. I am currently seeking opportunities in frontend development
-            for Summer 2023!
+            experience. I am currently seeking opportunities in software development for summer 2024!
           </p>
           <a href = "#content" className = 'btn btn-primary'>Let's Talk!</a>
         </div>
