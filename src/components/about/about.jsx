@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/img-redundant-alt */
 import React from 'react'
 import './about.css'
 import me from '../../assets/mcm-eng-mgmt_left-col_jpg.jpg'
