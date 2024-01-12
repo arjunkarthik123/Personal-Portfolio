@@ -2,7 +2,6 @@ import React from 'react'
 import './portfolio.css'
 import PongIMG from '../../assets/pong demo.png'
 import gpaIMG from '../../assets/gpa demo.png'
-import webIMG from '../../assets/webdev.png'
 import islandIMG from '../../assets/Screenshot 2023-03-29 014217.png'
 
 
@@ -23,13 +22,6 @@ const portfolio = () => {
         <article className = "portfolio__item">
           <div className = "portfolio__item-image">
             <img src = {gpaIMG} alt = ""/>
-          </div>
-          <h3>GPA Calculator</h3>
-          <a href = "https://github.com/arjunkarthik123/GPA-Calculator" classname = 'btn' target = '_blank' rel="noreferrer">Github</a>
-        </article>
-        <article className = "portfolio__item">
-          <div className = "portfolio__item-image">
-            <img src = {webIMG} alt = ""/>
           </div>
           <h3>My React Portfolio</h3>
           <a href = "https://github.com/arjunkarthik123/Personal-Portfolio" classname = 'btn' target = '_blank' rel="noreferrer">Github</a>
